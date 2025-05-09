@@ -1,3 +1,5 @@
+// task - using jsonplaceholder you can carry out CRUD operations, write this code and type it.
+
 async function getData(url) {
   try {
     let response = await fetch(url);
