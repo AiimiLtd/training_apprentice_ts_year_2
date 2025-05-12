@@ -32,8 +32,17 @@
 
 // ** functions **
 // params and returns
+// const exampleFunc = (name: string, age: number): string => {
+//     return `Hello ${name}, you are ${age} years old`
+// }
 
 // ** type and interface **
+// type Example = {
+//     name: string;
+// }
+// interface Example1 {
+//     name: string;
+// }
 
 // ** generics **
 // function exampleFunc(arr: any[]): any[] {`
