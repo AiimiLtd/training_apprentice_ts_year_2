@@ -6,6 +6,7 @@
 // compile = tsc app.ts
 
 // ** typing primities **
+// The 'any' type
 // objects = { name: string, age: number }
 // arrays = string[]
 // tuples = [string, number]
